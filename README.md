@@ -12,7 +12,7 @@ BCA Student | Aspiring Data Scientist | Data Analyst | ML Enthusiast
 </p>
 <!-- Adding Profile Banner Image -->
 <p align="center">
-  <img src="YOUR_BANNER_LINK" width="100%" />
+  <img src="https://raw.githubusercontent.com/kirti-j/kirti-j/refs/heads/main/banner.png" width="100%" />
 </p>
  👨‍💻 About Me
 
