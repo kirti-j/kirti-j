@@ -111,8 +111,6 @@ I focus on both:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirti-j&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirti-j&layout=compact&theme=tokyonight)
-
 # 🔥 Contribution Activity
 
 [![Kirti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kirti-j&theme=tokyo-night)](https://github.com/kirti-j)
