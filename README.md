@@ -96,7 +96,6 @@ I focus on both:
 ### Deployment & Web Apps
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Database
 
@@ -120,7 +119,7 @@ I focus on both:
 
 # 🔥 Contribution Activity
 
-[![Kirti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/kirti-j)
+[![Kirti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kirti-j&theme=tokyo-night)](https://github.com/kirti-j)
 
 # 🌱 Currently Learning
 
